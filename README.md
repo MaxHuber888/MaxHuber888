@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi 👋 my name is Max
+I am an AI/ML engineer focused on building systems with clear real-world impact. My work is guided by a simple principle: effective AI should make people's lives tangibly better.
+
+### Currently I am:
+- completing M.S. in AI @ NEU
+- Researching network theoretic approaches for modeling muscle synergies to improve stroke recovery outcomes
+- looking for work in AI/ML, data science/eng, and computer vision
+
+### Connect with me:
+
+📧 **Email:** [huber.maxi@northeastern.edu](mailto:huber.maxi@northeastern.edu)
+
+🌐 **Portfolio:** [maxhuber.vercel.app](https://maxhuber.vercel.app)
+
+💼 **LinkedIn:** [Maximilian Huber](https://www.linkedin.com/in/max-huber888/)
+
+🐙 **GitHub:** [@MaxHuber888](https://github.com/MaxHuber888)
+
+🐦 **Twitter:** [@maxhuber888](https://twitter.com/MaxHuber888)
+
+📄 **Resume:** [View PDF](https://maxhuber.vercel.app/files/resume.pdf)
 
 <!--
 **MaxHuber888/MaxHuber888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
