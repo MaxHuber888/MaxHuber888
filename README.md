@@ -1,4 +1,4 @@
-## Hi 👋 my name is Max
+## Hi, my name is Max.
 I am an AI/ML engineer focused on building systems with clear real-world impact. My work is guided by a simple principle: effective AI should make people's lives tangibly better.
 
 ### Currently I am:
