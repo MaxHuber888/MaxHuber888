@@ -1,4 +1,4 @@
-## Hi, my name is Max.
+## Hi, my name is Max
 I am an AI/ML engineer focused on building systems with clear real-world impact. My work is guided by a simple principle: effective AI should make people's lives tangibly better.
 
 ### Currently I am:
@@ -13,8 +13,6 @@ I am an AI/ML engineer focused on building systems with clear real-world impact.
 🌐 **Portfolio:** [maxhuber.vercel.app](https://maxhuber.vercel.app)
 
 💼 **LinkedIn:** [Maximilian Huber](https://www.linkedin.com/in/max-huber888/)
-
-🐙 **GitHub:** [@MaxHuber888](https://github.com/MaxHuber888)
 
 🐦 **Twitter:** [@maxhuber888](https://twitter.com/MaxHuber888)
 
