@@ -3,7 +3,7 @@ I am an AI/ML engineer focused on building systems with clear real-world impact.
 
 ### Currently I am:
 - completing M.S. in AI @ NEU
-- Researching network theoretic approaches for modeling muscle synergies to improve stroke recovery outcomes
+- researching network theoretic approaches for modeling muscle synergies to improve stroke recovery outcomes
 - looking for work in AI/ML, data science/eng, and computer vision
 
 ### Connect with me:
