@@ -10,7 +10,7 @@ I am an AI/ML engineer focused on building systems with clear real-world impact.
 
 📧 **Email:** [huber.maxi@northeastern.edu](mailto:huber.maxi@northeastern.edu)
 
-🌐 **Portfolio:** [maxhuber.vercel.app](https://maxhuber.vercel.app)
+🌐 **Portfolio:** [MaxHuber888.github.io](https://MaxHuber888.github.io)
 
 💼 **LinkedIn:** [Maximilian Huber](https://www.linkedin.com/in/max-huber888/)
 
